@@ -1,0 +1,14 @@
+{
+  "name": "ep-01-inception",
+  "version": "1.0.0",
+  "description": "This is my 2nd video learnings",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shivam Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
